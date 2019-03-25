@@ -1,0 +1,28 @@
+body{
+	background-image: url(tumblr.jpg);
+	background-size: cover;
+	
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+	line-height: 3em;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 250%;
+	color: yellow;
+	margin-top: 1px;
+
+}
+button{
+	color: brown;
+	margin-left: 1000px;
+	
+
+
+
+}
